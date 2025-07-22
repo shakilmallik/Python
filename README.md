@@ -1,1 +1,1 @@
-# Pythin
+# Python course with practice questions.
